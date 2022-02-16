@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 5c3780dd-7a57-8158-4cc5-610abdf9e8ff
 title: Additional Recommended Bibliography
 uid: 70fb653a-a2e2-a79c-5f7a-482467a309bf

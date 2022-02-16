@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-565-israel-history-politics-culture-identity-spring-2019/7f56057d0bb7254e2927c05798d680b0_MIT17_565S19_lecslide3.pdf
+file: /media/courses/17-565-israel-history-politics-culture-identity-spring-2019/7f56057d0bb7254e2927c05798d680b0_MIT17_565S19_lecslide3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '17.565_S19 Lecture Slide 3: Introduction, Part III'
 uid: 7f56057d-0bb7-254e-2927-c05798d680b0
