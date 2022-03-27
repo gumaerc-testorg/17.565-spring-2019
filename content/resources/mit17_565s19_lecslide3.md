@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 7ef496ae-22b8-f490-1ba9-a4c5129f1556
 resourcetype: Document
 title: '17.565_S19 Lecture Slide 3: Introduction, Part III'
 uid: 7f56057d-0bb7-254e-2927-c05798d680b0

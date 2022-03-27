@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 7ef496ae-22b8-f490-1ba9-a4c5129f1556
 resourcetype: Document
 title: '17.565_S19 Lecture Slide 5: The Palestinian-Arab Minority in Israel'
 uid: 8969d324-c42e-5a24-1783-5704076b86ce

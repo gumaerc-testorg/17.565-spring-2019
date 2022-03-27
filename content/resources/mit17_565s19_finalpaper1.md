@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06c4f1c4-f3e2-50a7-270a-2e6b8293e71b
 resourcetype: Document
 title: '17.565_S19 Assignments_Final Paper: The Shift in Israeli Identity Towards
   Nationalism and a More Religious State'
