@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This sections contains the lecture slides for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -21,31 +22,31 @@ TOPICS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction, Part I (PDF - 3.8MB)]({{< baseurl >}}/resources/mit17_565s19_lecslide1)
+{{% resource_link 697c3abb-2ef4-d81b-6930-cf426e9a56c6 "Introduction, Part I (PDF - 3.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction, Part II (PDF - 8.6MB)]({{< baseurl >}}/resources/mit17_565s19_lecslide2)
+{{% resource_link 075cf310-eefd-7b22-c402-fe6ca433a787 "Introduction, Part II (PDF - 8.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction, Part III (PDF - 7.2MB)]({{< baseurl >}}/resources/mit17_565s19_lecslide3)
+{{% resource_link 7f56057d-0bb7-254e-2927-c05798d680b0 "Introduction, Part III (PDF - 7.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Expansion and Contraction (PDF - 6.1MB)]({{< baseurl >}}/resources/mit17_565s19_lecslide4)
+{{% resource_link 2cd20d01-f939-14de-59bf-9aebc81e7933 "Expansion and Contraction (PDF - 6.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Palestinian-Arab Minority in Israel (PDF - 5.6MB)]({{< baseurl >}}/resources/mit17_565s19_lecslide5)
+{{% resource_link 8969d324-c42e-5a24-1783-5704076b86ce "The Palestinian-Arab Minority in Israel (PDF - 5.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

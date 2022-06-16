@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the core issues for the peace conference, as well
+  as related websites and resolutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains possible topics for the course's classroom presentations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

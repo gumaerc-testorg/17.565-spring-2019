@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This paper contains information on the final paper as well as possible
+  topics.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -46,12 +48,11 @@ Possible Topics
 *   The American Jewish Community and Israel
 *   Or any other topic that you want to explore
 
-Student Examples[  
-]({{< baseurl >}}/resources/mit17_565s19_finalpaper1)
+Student Examples{{% resource_link "e2cdde68-4f1c-320d-a71e-b06220c0331a" "   " %}}
 -------------------------------------------------------------------------
 
-["The Establishment, Perpetuation, and Rejection of Normativity in Israeli Cinema" (PDF)]({{< baseurl >}}/resources/mit17_565s19_finalpaper2)
+{{% resource_link 6ceae828-e3bb-9028-89c4-d1377f8599ef "\"The Establishment, Perpetuation, and Rejection of Normativity in Israeli Cinema\" (PDF)" %}}
 
-["The Shift in Israeli Identity Towards Nationalism and a More Religious State" (PDF)]({{< baseurl >}}/resources/mit17_565s19_finalpaper1)
+{{% resource_link e2cdde68-4f1c-320d-a71e-b06220c0331a "\"The Shift in Israeli Identity Towards Nationalism and a More Religious State\" (PDF)" %}}
 
 These examples appear courtesy of MIT students and are anonymous by request.

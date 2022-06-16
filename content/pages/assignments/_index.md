@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details for the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,7 +25,7 @@ PERCENTAGES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Readings' assignments (4)]({{< baseurl >}}/pages/assignments/readings-assignments)
+{{% resource_link f3143c0f-430d-b346-d2c7-0f34db72e824 "Readings' assignments (4)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 40%
@@ -33,7 +34,7 @@ PERCENTAGES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Staged Israeli-Arab-Palestinian peace conference]({{< baseurl >}}/pages/assignments/staged-israeli-arab-palestinian-peace-conference)
+{{% resource_link bf413fad-ff26-ffb3-48be-2e645c9dff46 "Staged Israeli-Arab-Palestinian peace conference" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 15% 
@@ -42,7 +43,7 @@ PERCENTAGES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Classroom presentation]({{< baseurl >}}/pages/assignments/classroom-presentation) 
+{{% resource_link ae8c8284-8a20-ae40-f407-8a38da60b82b "Classroom presentation" %}} 
 {{< tdclose >}}
 {{< tdopen >}}
 15% (bonus)
@@ -51,7 +52,7 @@ PERCENTAGES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final paper]({{< baseurl >}}/pages/assignments/final-paper)
+{{% resource_link 128c16ed-d38e-5741-b8d9-fe2966da65f6 "Final paper" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 45% (﻿or 30% if the presentation was good )
