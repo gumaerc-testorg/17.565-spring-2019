@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the course syllabus.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Syllabus '
 uid: edf0eeb4-98fd-3810-080e-be16dc30f2d6
 ---
@@ -84,7 +87,7 @@ Final paper
 
 {{< tableclose >}}
 
-Attendance is mandatory. For more detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Attendance is mandatory. For more detail, see the {{% resource_link 06c4f1c4-f3e2-50a7-270a-2e6b8293e71b "Assignments" %}} section.
 
 Readings
 --------
@@ -99,4 +102,4 @@ Dowty, Alan. _Israel / Palestine._ 4th ed. Polity Press, 2017. ISBN: 97815095207
 
 Kimmerling, Baruch, and Joel S. Migdal. _The Palestinian People: A History_. Harvard University Press, 2003. ISBN: 9780674011298. \[Preview with [Google Books](https://books.google.com/books?id=6NRYEr8FR1IC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link 5c3780dd-7a57-8158-4cc5-610abdf9e8ff "Readings" %}} section.

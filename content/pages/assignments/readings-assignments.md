@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains details for the four readings' assignments to be
+  done for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 06c4f1c4-f3e2-50a7-270a-2e6b8293e71b
 title: Readings' Assignments
 uid: f3143c0f-430d-b346-d2c7-0f34db72e824
@@ -15,7 +21,7 @@ We will treat this period as the formative years of Israel, in which its core id
 
 When you think of the questions below, please take these basic outlines into consideration.
 
-1.  Please read Liebman and Don-Yehiya’s excerpts from their book [_Civil Religion in Israel_]({{< baseurl >}}/pages/readings).
+1.  Please read Liebman and Don-Yehiya’s excerpts from their book {{% resource_link 5c3780dd-7a57-8158-4cc5-610abdf9e8ff "_Civil Religion in Israel_" %}}.
 2.  Please sum up in no more than **half a page** their main argument about Israel’s Civil Religion of Statism.
 3.  Then, (a) Please explain the differences between traditional and civil religions; (b) Define the concept of “Statism” in its application to Israel’s formative years (You may also want to incorporate the essence of the above (a) + (b) observations into your half-page summary of Liebman and Don-Yehiya’s main thesis); amd (c) Give three examples of how Israel’s Civil Religion of Statism was disseminated to the general public.
 4.  Then, please reflect freely on both Liebman & Don-Yehiya’s thesis and text, and on the excerpt from Moshe Shamir’s novel. Please appraise the two pieces’ relation to the notion of Israel’s _Mamlachtiyut_.
