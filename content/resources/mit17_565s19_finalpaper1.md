@@ -5,6 +5,7 @@ file: /courses/17-565-israel-history-politics-culture-identity-spring-2019/e2cdd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

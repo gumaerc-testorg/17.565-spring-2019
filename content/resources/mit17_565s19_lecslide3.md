@@ -5,6 +5,7 @@ file: /courses/17-565-israel-history-politics-culture-identity-spring-2019/7f560
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
