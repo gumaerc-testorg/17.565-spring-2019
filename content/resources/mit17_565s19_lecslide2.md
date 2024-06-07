@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-565-israel-history-politics-culture-identity-spring-2019/075cf310eefd7b22c402fe6ca433a787_MIT17_565S19_lecslide2.pdf
+file_size: 8979321
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
