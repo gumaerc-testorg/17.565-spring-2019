@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-565-israel-history-politics-culture-identity-spring-2019/8969d324c42e5a2417835704076b86ce_MIT17_565S19_lecslide5.pdf
+file: /courses/17-565-israel-history-politics-culture-identity-spring-2019/8969d324c42e5a2417835704076b86ce_MIT17_565S19_lecslide5.pdf
 file_size: 5876178
 file_type: application/pdf
 learning_resource_types:
