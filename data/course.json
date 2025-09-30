@@ -48,7 +48,7 @@
     "website": "17-565-israel-history-politics-culture-identity-spring-2019"
   },
   "course_title": "Israel: History, Politics, Culture, Identity",
-  "course_description": "This course examines Israeli identity using a broad array of materials, including popular music, film, documentaries, and art, in addition to academic historical writings. Topics include Israel's political system and society, ethnic relations, settlement projects, and the Arab minorities in the Jewish state. Students also discuss whether there is a unique Israeli culture and the struggle for Israel's identity.\n\nPreference is given to students in the [MISTI MIT-Israel](https://misti.mit.edu/mit-israel) program.\n",
+  "course_description": "This course examines Israeli identity using a broad array of materials, including popular music, film, documentaries, and art, in addition to academic historical writings. Topics include Israel's political system and society, ethnic relations, settlement projects, and the Arab minorities in the Jewish state. Students also discuss whether there is a unique Israeli culture and the struggle for Israel's identity.\n\nPreference is given to students in the {{% resource_link \"da0c01ec-afc1-4089-8453-5b79daae1003\" \"MISTI MIT-Israel\" %}} program.\n",
   "department_numbers": [
     "17"
   ],
