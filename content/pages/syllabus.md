@@ -94,12 +94,12 @@ Readings
 
 _General background books_
 
-Shapira, Anita. _Israel: A History_. Brandeis University Press, 2014. ISBN: 9781611686180. \[Preview with {{% resource_link "ccfc2be4-a9fa-4bac-baac-bb7f7b7bd2cf" "Google Books" %}}\]
+Shapira, Anita. _Israel: A History_. Brandeis University Press, 2014. ISBN: 9781611686180. \[Preview with [Google Books](https://books.google.com/books?id=Nh9okmg63ssC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Bunton, Martin. _The Palestinian-Israeli Conflict: A Very Short Introduction_. Oxford University Press, 2013. ISBN: 9780199603930. \[Preview with {{% resource_link "5d16d48a-1cef-4db1-9eac-8eb86534fe80" "Google Books" %}}\]
+Bunton, Martin. _The Palestinian-Israeli Conflict: A Very Short Introduction_. Oxford University Press, 2013. ISBN: 9780199603930. \[Preview with [Google Books](https://books.google.com/books?id=ldgVAAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Dowty, Alan. _Israel / Palestine._ 4th ed. Polity Press, 2017. ISBN: 9781509520787. \[Preview with {{% resource_link "f686a17e-6aee-44d8-af0f-5b8d4c70b0f2" "Google Books" %}}\]
+Dowty, Alan. _Israel / Palestine._ 4th ed. Polity Press, 2017. ISBN: 9781509520787. \[Preview with [Google Books](https://books.google.com/books?id=GMEzDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Kimmerling, Baruch, and Joel S. Migdal. _The Palestinian People: A History_. Harvard University Press, 2003. ISBN: 9780674011298. \[Preview with {{% resource_link "b0416bd1-2d22-4a1a-8bb2-5c300d8db7f3" "Google Books" %}}\]
+Kimmerling, Baruch, and Joel S. Migdal. _The Palestinian People: A History_. Harvard University Press, 2003. ISBN: 9780674011298. \[Preview with [Google Books](https://books.google.com/books?id=6NRYEr8FR1IC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 For additional readings, see the {{% resource_link 5c3780dd-7a57-8158-4cc5-610abdf9e8ff "Readings" %}} section.

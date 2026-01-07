@@ -29,36 +29,36 @@ Suggested Links 
 
 Below, please see some links that you may want to consult for the peace conference. Please be advised that this is just a suggested list and I encourage all to look for other sources of information.
 
-1.  The {{% resource_link "469dda6e-a1a2-4cb9-9f2e-525abf8e4c96" "Jewish Virtual Library" %}}’s text presents Israeli and Jewish-American mainstream position on the issue. In addition, please also look for Netanyahu’s speeches (especially his {{% resource_link "e9488c5c-f0e7-43ab-9e55-e3d04bb3ceb6" "Bar Ilan speech" %}}) and the Likud party’s resolutions regarding a future Palestinian state and the settlements.
-2.  {{% resource_link "5cdb5ec6-3551-4f1f-8291-06f785fd7c0e" "The Foundation for Middle East Peace" %}} tries to present a “balanced” perspective and a range of opinions.
-3.  The UN’s “{{% resource_link "e77ce242-f0b9-4cee-a045-21f92415ef41" "The Question of Palestine" %}}” website presents the UN stand, which in general is not so supportive of the Israeli (and US’s) one.
-4.  The website of the {{% resource_link "ad80700a-401e-49a8-99a1-377b6bf2751d" "Negotiations Affairs Department of the PLO" %}} contains very useful information regarding the position of the Palestinian Authority about our peace conference’s topics. {{% resource_link "c5bf7e85-58ad-4c72-beba-e2dcfd4a9a90" "Middle East Research and Information Project" %}} (MERIP) is a pro-Palestinian information source.
+1.  The [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/facts-about-jewish-settlements-in-the-west-bank)’s text presents Israeli and Jewish-American mainstream position on the issue. In addition, please also look for Netanyahu’s speeches (especially his [Bar Ilan speech](https://mfa.gov.il/MFA/PressRoom/2009/Pages/Address_PM_Netanyahu_Bar-Ilan_University_14-Jun-2009.aspx)) and the Likud party’s resolutions regarding a future Palestinian state and the settlements.
+2.  [The Foundation for Middle East Peace](https://fmep.org/about/) tries to present a “balanced” perspective and a range of opinions.
+3.  The UN’s “[The Question of Palestine](https://www.un.org/unispal/)” website presents the UN stand, which in general is not so supportive of the Israeli (and US’s) one.
+4.  The website of the [Negotiations Affairs Department of the PLO](https://www.nad.ps/en) contains very useful information regarding the position of the Palestinian Authority about our peace conference’s topics. [Middle East Research and Information Project](https://merip.org/) (MERIP) is a pro-Palestinian information source.
 
 Important UN Resolutions, Agreements and Proposals
 --------------------------------------------------
 
 _UN Resolutions_
 
-General Assembly: {{% resource_link "8023aa7f-0b90-4c50-b3e6-39a77979d511" "181" %}}; {{% resource_link "6e64fab1-7716-41b1-ae5a-61fa29950692" "194" %}}; {{% resource_link "6b50d608-a2a9-4328-af60-808468222e84" "67/19" %}}
+General Assembly: [181](https://en.wikipedia.org/wiki/United_Nations_Partition_Plan_for_Palestine); [194](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_194); [67/19](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_resolution_67/19)
 
-Security Council: {{% resource_link "32980da0-fe21-46bd-8693-90f156341e82" "242" %}}, {{% resource_link "cf39fbaf-277c-4104-816c-777d5ef6ab9e" "338" %}}; {{% resource_link "6aea8fe9-3fd2-44e1-ad71-ed9d16dd047e" "2334" %}}
+Security Council: [242](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_242), [338](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_338); [2334](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_2334)
 
-{{% resource_link "dcc3475f-10da-478b-98db-d96179717987" "List of Resolutions" %}}
+[List of Resolutions](https://en.wikipedia.org/wiki/List_of_United_Nations_resolutions_concerning_Palestine)
 
 _Agreements_
 
-{{% resource_link "2a47adf0-f9c9-4854-b0cf-626b1e38009c" "The Egypt-Israel Peace Treaty" %}} (1979)
+[The Egypt-Israel Peace Treaty](https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_Peace_Treaty) (1979)
 
-{{% resource_link "8843d418-2a3e-41a2-9d94-593dc391ea4d" "Oslo I Accord" %}} (1993)
+[Oslo I Accord](https://en.wikipedia.org/wiki/Oslo_I_Accord) (1993)
 
-{{% resource_link "cdc31821-3d7e-43cd-abbf-03b06677be09" "Oslo II Accord" %}} (1995)
+[Oslo II Accord](https://en.wikipedia.org/wiki/Oslo_II_Accord) (1995)
 
-{{% resource_link "eba41929-66a6-4984-a47d-ea00a9c90203" "The Israel-Jordan Peace Treaty" %}} (1994)
+[The Israel-Jordan Peace Treaty](https://en.wikipedia.org/wiki/Israel%E2%80%93Jordan_peace_treaty) (1994)
 
-{{% resource_link "609eeb2c-ab39-4be9-a964-705f27f154aa" "The Annapolis Conference" %}} (2007)
+[The Annapolis Conference](https://en.wikipedia.org/wiki/Annapolis_Conference) (2007)
 
 _Proposals_
 
-{{% resource_link "f0f0a828-42f2-4dd3-8e76-91ff9c12fa1a" "President Clinton Parameters" %}} (2000)
+[President Clinton Parameters](https://en.wikipedia.org/wiki/The_Clinton_Parameters) (2000)
 
-{{% resource_link "46489020-7038-4c1e-8b2c-2dd714a083c8" "The Arab League Peace Initiative" %}} (2002)
+[The Arab League Peace Initiative](https://en.wikipedia.org/wiki/Arab_Peace_Initiative) (2002)

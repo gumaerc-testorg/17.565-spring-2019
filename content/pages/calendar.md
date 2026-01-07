@@ -230,7 +230,7 @@ Reading assignment #4 due
 
 The Palestinian-Arab minority in Israel—history, identity
 
-A talk with {{% resource_link "e380613d-5bc7-4bd2-9e07-7cee9430c433" "Sinan AbuShanab" %}}
+A talk with [Sinan AbuShanab](https://mitsloan.mit.edu/staff/directory/sinan-abushanab)
 
 
 {{< tdclose >}}
